@@ -1,0 +1,39 @@
+Flores de Catalogo - Floreria Monreal
+
+1. Rosas*
+2. Girasoles*
+3. Tulipan*
+4. Clavel*
+5. Flor de cerezo*
+6. Flor de margarita*
+7. Flor de campanilla*
+8. Flor de lirio*
+9. Flor de narciso*
+10. Flor de dalia*
+11. Orquideas*
+12. Camelia*
+13. Peonias*
+14. Hortensia*
+15. Azalea*
+16. Bromelias*
+17. Flor de loto*
+
+Usados en la programacion
+
+1.Rosas*
+2.Girasoles*
+3.Tulipan*
+4.Clavel*
+5.cerezo*
+6.margarita*
+7.campanilla*
+8.lirio*
+9.narciso*
+10. dalia*
+11. orquideas*
+12. camelia*
+13. Peonias*
+14. Hortensia*
+15. Azalea*
+16. Bromelias*
+17. loto*
